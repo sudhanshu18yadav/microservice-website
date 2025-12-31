@@ -398,17 +398,3 @@ These examples use the following open source libraries:
 * [JHipster](https://www.jhipster.tech)
 * [OpenJDK](https://openjdk.java.net/)
 * [K9s](https://k9scli.io/)
-
-## Help
-
-Please post any questions as comments on the example's blog post, or on the [Okta Developer Forums](https://devforum.okta.com/).
-
-## License
-
-Apache 2.0, see [LICENSE](LICENSE).
-
-[blog-spring-boot-spring-cloud]: https://developer.okta.com/blog/2019/05/22/java-microservices-spring-boot-spring-cloud
-[blog-spring-cloud-config]: https://developer.okta.com/blog/2019/05/23/java-microservices-spring-cloud-config
-[blog-spring-cloud-gateway]: https://developer.okta.com/blog/2019/08/28/reactive-microservices-spring-cloud-gateway
-[blog-reactive-jhipster]: https://developer.okta.com/blog/2021/01/20/reactive-java-microservices
-[blog-k8s]: https://developer.okta.com/blog/2021/06/01/kubernetes-spring-boot-jhipster
